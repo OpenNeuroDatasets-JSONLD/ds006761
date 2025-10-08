@@ -2,7 +2,7 @@
     "Name": "Neural decoding of competitive decision-making in Rock-Paper-Scissors",
     "BIDSVersion": "1.0.2",
     "DatasetType": "raw",
-    "License":"CC BY 4.0",
+    "License": "CC0",
     "Authors": [
         "Moerel, Denise",
         "Grootswagers, Tijl",
@@ -15,7 +15,8 @@
     ],
     "Funding": [
         "ARC DP220103047 (MV)",
-        "H2020 Marie Curie 893960 (FC)"
+        "H2020 Marie Curie 893960 (FC)",
+        "ARC DE230100380 (TG)"
     ],
     "ReferencesAndLinks": [
         "https://doi.org/10.17605/OSF.IO/YJXKN",
