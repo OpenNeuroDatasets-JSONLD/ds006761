@@ -22,5 +22,6 @@
         "https://doi.org/10.17605/OSF.IO/YJXKN",
         "https://doi.org/10.1093/scan/nsaf101"
     ],
-    "HowToAcknowledge": "Moerel, D., Grootswagers, T., Chin, J. L., Ciardo, F., Nijhuis, P., Quek, G. L., Smit, S. & Varlet, M. (2025). Neural decoding of competitive decision-making in Rock-Paper-Scissors. Social Cognitive And Affective Neuroscience, nsaf101. doi: https://doi.org/10.1093/scan/nsaf101"
+    "HowToAcknowledge": "Moerel, D., Grootswagers, T., Chin, J. L., Ciardo, F., Nijhuis, P., Quek, G. L., Smit, S. & Varlet, M. (2025). Neural decoding of competitive decision-making in Rock-Paper-Scissors. Social Cognitive And Affective Neuroscience, nsaf101. doi: https://doi.org/10.1093/scan/nsaf101",
+    "DatasetDOI": "doi:10.18112/openneuro.ds006761.v1.0.0"
 }
